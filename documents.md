@@ -1,4 +1,3 @@
-# documents.md
 ---
 layout: page
 title: ""
