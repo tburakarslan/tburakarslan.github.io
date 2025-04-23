@@ -1,0 +1,17 @@
+{% raw %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tburakarslan.github.io/</loc>
+    <lastmod>2024-01-20</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tburakarslan.github.io/documents.html</loc>
+    <lastmod>2024-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://tburakarslan.github.io/contact.html</loc>
+    <lastmod>2024-01-20</lastmod>
+  </url>
+</urlset>
+{% endraw %}
