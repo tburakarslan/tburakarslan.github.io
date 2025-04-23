@@ -10,13 +10,15 @@ title: ""
     top: 20px;
     font-size: 24px;
     color: #000;
-    z-index: 1000;
+    z-index: 9999;
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+  }
+  .back-arrow:hover {
+    opacity: 0.7;
+    transform: translateX(-3px);
   }
 </style>
-
-<a href="https://tburakarslan.github.io/" class="back-arrow">
-  <i class="fas fa-arrow-left"></i>
-</a>
 
 # Araştırma Dosyalarıı (Research Documents)
 
