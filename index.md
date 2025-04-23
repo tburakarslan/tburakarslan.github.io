@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
 # [Hoş Geldiniz (Welcome)](index.md)
 
 Bu sayfada, lisans düzeyindeki bazı konulara ilişkin taslak niteliğinde notlar paylaşılacaktır. Notlar, tamamlanmamış ve geliştirilmekte olan içerikler içermektedir. Bu nedenle, burada yer alan bilgilerin kullanılmadan önce başka kaynaklar aracılığıyla doğrulanması önerilir.
