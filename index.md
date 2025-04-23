@@ -9,10 +9,6 @@ Bu sayfada, lisans düzeyindeki bazı konulara ilişkin taslak niteliğinde notl
 This page presents preliminary notes on selected undergraduate-level topics. The materials provided are incomplete and currently under development. Accordingly, it is recommended that the information herein be cross-verified with other academic sources prior to use.
 
 
-## İletişim
+## İletişim (Contact)
 
-[İletişim Sayfasına Git](contact.md)
-
-## Contact
-
-[Go to Contact Page](contact.md)
+[İletişim Sayfasına Git (Go to Contact Page)](contact.md)
