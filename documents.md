@@ -2,4 +2,4 @@
 
 - [Ayırma Aksiyomlar: Karakterizasyonlar ve Gerektirmeler (Separation Axioms: Characterizations and Implications)](pdffiles/Test.pdf)
 
-<a href="index.md"><i class="fas fa-arrow-left"></i></a>
+<a href="/"><i class="fas fa-arrow-left"></i></a>
