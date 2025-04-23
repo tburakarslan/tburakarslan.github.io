@@ -1,3 +1,8 @@
+---
+layout: default
+title: ""
+---
+
 # [Hoş Geldiniz (Welcome)](index.md)
 
 Bu sayfada, lisans düzeyindeki bazı konulara ilişkin taslak niteliğinde notlar paylaşılacaktır. Notlar, tamamlanmamış ve geliştirilmekte olan içerikler içermektedir. Bu nedenle, burada yer alan bilgilerin kullanılmadan önce başka kaynaklar aracılığıyla doğrulanması önerilir.
