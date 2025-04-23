@@ -13,9 +13,6 @@ documents.md
     color: #000;
     z-index: 1000;
   }
-  .back-arrow:hover {
-    color: #666;
-  }
 </style>
 
 <a href="https://tburakarslan.github.io/" class="back-arrow">
