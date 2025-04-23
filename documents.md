@@ -1,7 +1,7 @@
 # documents.md
 ---
-+ layout: page
-+ title: ""
+layout: page
+title: ""
 ---
 
 <style>
