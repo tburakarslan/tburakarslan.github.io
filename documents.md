@@ -16,6 +16,6 @@
   <i class="fas fa-arrow-left"></i>
 </a>
 
-# Araştırma Dosyaları (Research Documents)
+# Araştırma Dosyalarıııı (Research Documents)
 
 - [Ayırma Aksiyomlar: Karakterizasyonlar ve Gerektirmeler (Separation Axioms: Characterizations and Implications)](pdffiles/Test.pdf)
