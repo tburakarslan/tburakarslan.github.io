@@ -6,8 +6,8 @@ Bu sayfada, lisans düzeyindeki bazı konulara ilişkin taslak niteliğinde notl
 
 ---
 
-## [Araştırma Dosyaları (Research Documents)](documents.md)
+### [Araştırma Dosyaları (Research Documents)](documents.md)
 
 ---
 
-## [İletişim (Contact)](contact.md)
+### [İletişim (Contact)](contact.md)
