@@ -15,3 +15,5 @@ Aşağıda, benimle iletişime geçebileceğiniz çeşitli yollar yer almaktadı
 Her türlü soru, öneri veya işbirliği talepleri için benimle iletişime geçmekten çekinmeyiniz.
 
 (Feel free to reach out for any inquiries, suggestions, or collaboration opportunities.)
+
+<a href="/" class="back-arrow" style="font-size:24px;">←</a>
