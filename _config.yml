@@ -9,7 +9,7 @@ include:
   - sitemap.xml
 
 markdown: kramdown
-
+theme: null
 defaults:
   - scope:
       path: ""
