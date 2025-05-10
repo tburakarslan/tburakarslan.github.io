@@ -1,15 +1,18 @@
 title: ""
-subtitle: ""
 description: ""
 
 baseurl: ""
 url: "https://tburakarslan.github.io"
 
-extra:
-  head: >
-    [
-      "<script type='text/javascript' async
-       src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML'></script>"
-    ]
+include:
+  - googledd079750171f02c4.html
+  - sitemap.xml
 
-include: [googledd079750171f02c4.html]
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
