@@ -5,7 +5,7 @@ Aşağıda, benimle iletişime geçebileceğiniz çeşitli yollar yer almaktadı
 (Below are the various ways through which you can get in touch with me:)
 
 ## E-posta (Email)
-- **E-posta (Email)**: [tburakarslan@gmail.com](mailto:tburakarslan@gmail.com)
+- [tburakarslan@gmail.com](mailto:tburakarslan@gmail.com)
 
 ## Akademik Profiller (Academic Profiles)
 - [**Google Scholar**](https://scholar.google.com/citations?user=ec8lz54AAAAJ&hl=tr)
