@@ -8,6 +8,6 @@ $$
 X=Y
 $$
 
-- aaaaaaa
+- a
 
 <a href="/" class="back-arrow" style="font-size:24px;">←</a>
